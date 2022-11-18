@@ -1,11 +1,10 @@
 * {
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
-    
 }
 
 body {
-    background-color: #FE938C;
+    background-color: #f6f8fc;
 }
 
 @media screen and (min-width: 992px) {
